@@ -1,0 +1,22 @@
+{
+  "name": "distributed-systems-learning",
+  "version": "1.0.0",
+  "description": "This is purely educational repository for myself to understand concepts of distributed systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdiezel/distributed-systems-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vdiezel/distributed-systems-learning/issues"
+  },
+  "homepage": "https://github.com/vdiezel/distributed-systems-learning#readme",
+  "dependencies": {
+    "uuid": "^11.1.0"
+  }
+}
